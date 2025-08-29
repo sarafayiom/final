@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997251285802",
+    "project_id": "fir-project-acf76",
+    "storage_bucket": "fir-project-acf76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997251285802:android:60fd109abb0b74ea211453",
+        "android_client_info": {
+          "package_name": "com.example.homeworkout_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4qo-6EjvXtYW1_Mv8UXuXYaNf01vQTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

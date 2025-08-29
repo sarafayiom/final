@@ -1,0 +1,8 @@
+build/
+*.iml
+.android/
+.packages
+.pub/
+.vscode/
+.idea/
+.dart_tool/
